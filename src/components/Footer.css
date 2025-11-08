@@ -1,0 +1,26 @@
+.footer {
+  background: #2d3748;
+  color: white;
+  padding: 40px;
+  text-align: center;
+}
+
+.footer h2 {
+  color: #ffd700;
+  margin-bottom: 20px;
+}
+
+.footer-description {
+  font-size: 1.3em;
+  margin: 20px 0;
+}
+
+.footer-cta {
+  background: #ffd700;
+  font-size: 1.3em;
+}
+
+.footer-contact {
+  margin-top: 30px;
+  opacity: 0.8;
+}

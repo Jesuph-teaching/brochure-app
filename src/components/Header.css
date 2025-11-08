@@ -1,0 +1,60 @@
+.header {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  color: white;
+  padding: 60px 40px;
+  text-align: center;
+}
+
+.header h1 {
+  font-size: 2.8em;
+  margin-bottom: 15px;
+  text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+}
+
+.header .subtitle {
+  font-size: 1.4em;
+  opacity: 0.95;
+  margin-bottom: 25px;
+}
+
+.price-badge {
+  display: inline-block;
+  background: rgba(255,255,255,0.2);
+  backdrop-filter: blur(10px);
+  padding: 15px 40px;
+  border-radius: 50px;
+  font-size: 1.8em;
+  font-weight: bold;
+  margin: 20px 0;
+  border: 2px solid rgba(255,255,255,0.3);
+}
+
+.cta-button {
+  display: inline-block;
+  background: #ffd700;
+  color: #333;
+  padding: 18px 50px;
+  text-decoration: none;
+  border-radius: 50px;
+  font-weight: bold;
+  font-size: 1.2em;
+  margin-top: 20px;
+  transition: all 0.3s;
+  box-shadow: 0 8px 20px rgba(0,0,0,0.2);
+}
+
+.cta-button:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 12px 30px rgba(0,0,0,0.3);
+  background: #ffed4e;
+}
+
+@media (max-width: 768px) {
+  .header h1 {
+    font-size: 2em;
+  }
+  
+  .header .subtitle {
+    font-size: 1.1em;
+  }
+}

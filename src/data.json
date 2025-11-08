@@ -1,0 +1,252 @@
+{
+  "program": {
+    "ar": {
+      "title": "تعلّم تطوير الويب من الصفر بطريقة عملية 🔥",
+      "subtitle": "خلال 5 أيام فقط، تبني أول موقعك وتفهم كيف يخدم الويب فعلياً",
+      "price": "28,000 دج فقط 💸",
+      "duration": "5 أيام تدريب مكثّف (8 ساعات في اليوم)",
+      "cta": "سجّل مكانك الآن 🚀",
+      "description": "حاب تبدأ في مجال البرمجة وتبني أول موقع تاعك؟ هاد البرنامج مصمّم خصيصاً للمبتدئين والطلبة اللي حابين يدخلوا عالم الويب بخطة واضحة وتجربة عملية خطوة بخطوة.",
+      "whyProgram": {
+        "title": "علاش تختار هاد البرنامج؟",
+        "features": [
+          {
+            "icon": "💻",
+            "title": "تطبيق مباشر 100%",
+            "description": "من أول يوم تبدأ تخدم بيديك وتبني مشروعك خطوة بخطوة."
+          },
+          {
+            "icon": "🧠",
+            "title": "تعلّم بطريقة بسيطة وواضحة",
+            "description": "نشرحو المفاهيم التقنية بلغة مفهومة وبأمثلة من الواقع."
+          },
+          {
+            "icon": "🚀",
+            "title": "تخرج بموقعك الخاص",
+            "description": "في آخر اليوم الخامس، تنشر موقعك على GitHub وتفرّجو لعائلتك أو أصحاب العمل!"
+          }
+        ]
+      },
+      "schedule": {
+        "title": "وش راح تتعلم كل يوم؟",
+        "days": [
+          {
+            "day": "اليوم 1: البداية 🔰",
+            "sessions": [
+              {
+                "period": "الصباح:",
+                "content": "مقدمة في الويب + Git و GitHub (كيف يخدم الإنترنت، المتصفحات، HTTP، وأساسيات التحكم في الإصدارات)."
+              },
+              {
+                "period": "المساء:",
+                "content": "نبدأو بـ HTML عملي: نبنيو صفحات، فورمات، وبنية منظمة للموقع."
+              }
+            ]
+          },
+          {
+            "day": "اليوم 2: التصميم الجذاب 🎨",
+            "sessions": [
+              {
+                "period": "الصباح:",
+                "content": "أساسيات CSS: الألوان، الخطوط، المسافات، والتنسيقات."
+              },
+              {
+                "period": "المساء:",
+                "content": "نخدمو بتقنيات Flexbox و Grid باش نصممو صفحات متجاوبة مع الهاتف."
+              }
+            ]
+          },
+          {
+            "day": "اليوم 3: البرمجة بالحقيقي ⚙️",
+            "sessions": [
+              {
+                "period": "الصباح:",
+                "content": "نكتشفو JavaScript: المتغيرات، الدوال، الشروط، والحلقات بطريقة سهلة."
+              },
+              {
+                "period": "المساء:",
+                "content": "نزيدو نخدمو على التفاعل مع الصفحة (DOM) باش نحركو العناصر ونتعاملو مع الأحداث."
+              }
+            ]
+          },
+          {
+            "day": "اليوم 4: مشروعك الأول 💪",
+            "sessions": [
+              {
+                "period": "يوم كامل:",
+                "content": "نخدمو موقع حقيقي متكامل وننشره على الإنترنت. من التصميم إلى النشر عبر GitHub Pages."
+              }
+            ]
+          },
+          {
+            "day": "اليوم 5: التحضير للمستقبل 🌟",
+            "sessions": [
+              {
+                "period": "الصباح:",
+                "content": "نكملو مشاريعكم ونتعرفو على أدوات تخدمكم كمطورين (VS Code، مواقع تصميم...)."
+              },
+              {
+                "period": "المساء:",
+                "content": "جلسة مفتوحة للأسئلة والنصائح المهنية حول فرص العمل في الجزائر."
+              }
+            ]
+          }
+        ]
+      },
+      "technologies": {
+        "title": "التقنيات اللي راح تتعلمها",
+        "items": [
+          "HTML5",
+          "CSS3",
+          "JavaScript ES6+",
+          "Tailwind CSS",
+          "Git و GitHub",
+          "VS Code",
+          "DevTools",
+          "Responsive Design"
+        ]
+      },
+      "benefits": {
+        "title": "وش راح تكسب من هاد الدورة؟",
+        "items": [
+          "تولي قادر تبني مواقع ويب احترافية ومتجاوبة",
+          "تضيف تفاعلات وسلوك ديناميكي بفضل JavaScript",
+          "تتحكم في الكود وتخدم مع الفريق بطريقة احترافية",
+          "تحضّر محفظة أعمال (Portfolio) خاصة بيك",
+          "تكتسب ثقة قوية باش تواصل في المجال أو تدخل تدريب احترافي"
+        ]
+      },
+      "footer": {
+        "title": "المستقبل بين يديك 💡",
+        "description": "سجّل اليوم بـ 28,000 دج فقط وابدأ طريقك نحو عالم الويب والبرمجة.",
+        "cta": "سجّل الآن 🎓",
+        "email": "info@webessentials.dz",
+        "phone": "+213 XXX XXX XXX"
+      }
+    },
+    "en": {
+      "title": "Web Development Bootcamp — Learn & Build in 5 Days!",
+      "subtitle": "Designed for Algerian learners who want real skills, fast.",
+      "price": "28,000 DA only 💸",
+      "duration": "5 Days Intensive (8h/day)",
+      "cta": "Join Now 🚀",
+      "description": "Want to kickstart your tech career and build your first website from scratch? This hands-on training is made for Algerian students and beginners eager to master modern web development in just one week!",
+      "whyProgram": {
+        "title": "Why Choose This Program?",
+        "features": [
+          {
+            "icon": "💻",
+            "title": "100% Practical Learning",
+            "description": "From day one, you’ll code, build, and deploy your own real project."
+          },
+          {
+            "icon": "🧠",
+            "title": "Clear, Step-by-Step Teaching",
+            "description": "We explain everything simply, with local examples and real-world practice."
+          },
+          {
+            "icon": "🚀",
+            "title": "Your Own Portfolio Website",
+            "description": "By the last day, you’ll publish your personal website live on GitHub!"
+          }
+        ]
+      },
+      "schedule": {
+        "title": "What You’ll Learn Each Day",
+        "days": [
+          {
+            "day": "Day 1: Getting Started 🔰",
+            "sessions": [
+              {
+                "period": "Morning:",
+                "content": "Introduction to Web + Git & GitHub (How the internet works, HTTP, browsers, and version control basics)."
+              },
+              {
+                "period": "Afternoon:",
+                "content": "HTML Hands-on: Build pages, forms, and semantic layouts."
+              }
+            ]
+          },
+          {
+            "day": "Day 2: Designing with Style 🎨",
+            "sessions": [
+              {
+                "period": "Morning:",
+                "content": "CSS Fundamentals: colors, typography, spacing, and layouts."
+              },
+              {
+                "period": "Afternoon:",
+                "content": "Responsive layouts using Flexbox and Grid (mobile-friendly design)."
+              }
+            ]
+          },
+          {
+            "day": "Day 3: Coding Logic ⚙️",
+            "sessions": [
+              {
+                "period": "Morning:",
+                "content": "JavaScript Basics: variables, functions, conditionals, and loops."
+              },
+              {
+                "period": "Afternoon:",
+                "content": "DOM Manipulation & Interactivity: handling events, forms, and animations."
+              }
+            ]
+          },
+          {
+            "day": "Day 4: Full Project 💪",
+            "sessions": [
+              {
+                "period": "Full Day:",
+                "content": "Build a real responsive website and deploy it online using GitHub Pages."
+              }
+            ]
+          },
+          {
+            "day": "Day 5: Next Steps 🌟",
+            "sessions": [
+              {
+                "period": "Morning:",
+                "content": "Finalizing projects & exploring useful dev tools (VS Code, design platforms, etc.)."
+              },
+              {
+                "period": "Afternoon:",
+                "content": "Career talk: How to grow as a web developer in Algeria and beyond."
+              }
+            ]
+          }
+        ]
+      },
+      "technologies": {
+        "title": "Technologies You’ll Master",
+        "items": [
+          "HTML5",
+          "CSS3",
+          "JavaScript ES6+",
+          "Tailwind CSS",
+          "Git & GitHub",
+          "VS Code",
+          "DevTools",
+          "Responsive Design"
+        ]
+      },
+      "benefits": {
+        "title": "What You’ll Gain",
+        "items": [
+          "Build modern, mobile-friendly websites confidently",
+          "Add interactivity using JavaScript",
+          "Use Git & GitHub like a professional",
+          "Create your own online portfolio",
+          "Gain the foundation to continue in internships or freelance projects"
+        ]
+      },
+      "footer": {
+        "title": "Your Tech Journey Starts Here 💡",
+        "description": "Register today for just 28,000 DA and start building your career in web development.",
+        "cta": "Register Now 🎓",
+        "email": "info@webessentials.dz",
+        "phone": "+213 XXX XXX XXX"
+      }
+    }
+  }
+}
