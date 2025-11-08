@@ -24,3 +24,14 @@
   margin-top: 30px;
   opacity: 0.8;
 }
+
+.footer-email,
+.footer-phone {
+  color: white;
+  text-decoration: none;
+}
+
+.footer-email:hover,
+.footer-phone:hover {
+  text-decoration: underline;
+}
