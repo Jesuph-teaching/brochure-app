@@ -120,8 +120,8 @@
         "title": "المستقبل بين يديك 💡",
         "description": "سجّل اليوم بـ 28,000 دج فقط وابدأ طريقك نحو عالم الويب والبرمجة.",
         "cta": "سجّل الآن 🎓",
-        "email": "info@webessentials.dz",
-        "phone": "+213 XXX XXX XXX"
+        "email": "lliliumschool@gmail.com",
+        "phones": ["+213 696 43 05 29", "+213 672 56 59 17"]
       }
     },
     "en": {
@@ -244,8 +244,8 @@
         "title": "Your Tech Journey Starts Here 💡",
         "description": "Register today for just 28,000 DA and start building your career in web development.",
         "cta": "Register Now 🎓",
-        "email": "info@webessentials.dz",
-        "phone": "+213 XXX XXX XXX"
+        "email": "lliliumschool@gmail.com",
+        "phones": ["+213 696 43 05 29", "+213 672 56 59 17"]
       }
     }
   }
